@@ -1,0 +1,159 @@
+- callsign: AME4544
+  airframe: "T .22-1"
+  type: "A-310"
+  nation: Spain
+  nation_code: es
+  hex_code: 354555
+  squawk: 5301
+
+- callsign: IFC5K21
+  airframe: CB-8009
+  type: C-171
+  nation: India
+  nation_code: in
+  hex_code: 800769
+  squawk: 4070
+
+- callsign: IAM1441
+  airframe: MM62229
+  type: B767-200
+  nation: Italy
+  nation_code: it
+  hex_code: 33FE92
+  squawk: none
+
+- callsign: IAM4674
+  airframe: MM62180
+  type: C-130
+  nation: Italy
+  nation_code: it
+  hex_code: 33FFF0
+  squawk: "*0451"
+
+- callsign: IAM4680
+  airframe: MM62178
+  type: C-130
+  nation: Italy
+  nation_code: it
+  hex_code: 33FFF2
+  squawk: 5117
+
+- callsign: CTM1031
+  airframe: F-UJCS
+  type: A-330
+  nation: France
+  nation_code: fr
+  hex_code: 3B7544
+  squawk: "*0206"
+
+- callsign: FAF4070
+  airframe: F-UJCJ
+  type: A330MRTT
+  nation: France
+  nation_code: fr
+  hex_code: 3B756B
+  squawk: 3301
+
+- callsign: CTM1405
+  airframe: 5150
+  type: C-130H
+  nation: France
+  nation_code: fr
+  hex_code: 3B7716
+  squawk: 5632
+
+- callsign: CTM1435
+  airframe: 5122
+  type: C-130H
+  nation: France
+  nation_code: fr
+  hex_code: 3B7717
+  squawk: 3307
+
+- callsign: CTM1573
+  airframe: "*0010"
+  type: A400M
+  nation: France
+  nation_code: fr
+  hex_code: 3B7770
+  squawk: 7563
+
+- callsign: CTM1033
+  airframe: F-RADB
+  type: A310
+  nation: France
+  nation_code: fr
+  hex_code: 3B77FC
+  squawk: 5642
+
+- callsign: GAF301
+  airframe: "54+27"
+  type: A400M
+  nation: Germany
+  nation_code: de
+  hex_code: 3F46DB
+  squawk: 7513
+
+- callsign: GAF309
+  airframe: "54+23"
+  type: "A400M"
+  nation: Germany
+  nation_code: de
+  hex_code: 3F49E6
+  squawk: 7620
+
+- callsign: GAF843
+  airframe: "15+02"
+  type: A319
+  nation: Germany
+  nation_code: de
+  hex_code: 3F551D
+  squawk: 3741
+
+- callsign: GAF304
+  airframe: "54+28"
+  type: A400M
+  nation: Germany
+  nation_code: de
+  hex_code: 3F8019
+  squawk: 7610
+
+- callsign: No Callsign
+  airframe: ZH871
+  type: C-130J
+  nation: United Kingdom
+  nation_code: gb
+  hex_code: 43C099
+  squawk: 6226
+
+- callsign: NAG44XT
+  airframe: ZZ171
+  type: C-17A
+  nation: United Kingdom
+  nation_code: gb
+  hex_code: 43C171
+  squawk: 3305
+
+- callsign: NAG51XT
+  airframe: ZZ174
+  type: C-17A
+  nation: United Kingdom
+  nation_code: gb
+  hex_code: 43C174
+  squawk: "*0152"
+
+- callsign: No Callsign
+  airframe: ZZ176
+  type: C-17A
+  nation: United Kingdom
+  nation_code: gb
+  hex_code: 43C1C6
+  squawk: none
+
+- callsign: RRR6391
+  airframe: ZZ178
+  type: C-17A
+  nation: United Kingdom
+  nation_code: gb
+  hex_code: 43C208
+  squawk: 6326

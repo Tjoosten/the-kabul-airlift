@@ -1,0 +1,38 @@
+---
+title: The Kabul Airlift
+layout: application
+---
+
+<div class="card shadow-sm border-0 card-body">
+    <div class="table-responsive">
+        <table class="table table-sm table-borderless table-striped table-hover mb-0">
+            <thead>
+                <tr>
+                    <th class="border-bottom border-secondary" scope="col">Nation</th>
+                    <th class="border-bottom border-secondary" scope="col">CALLSIGN</th>
+                    <th class="border-bottom border-secondary" scope="col">Airframe</th>
+                    <th class="border-bottom border-secondary" scope="col">Type</th>
+                    <th class="border-bottom border-secondary" scope="col">Hex Code</th>
+                    <th class="border-bottom border-secondary" colspan="2" scope="col">Squawk</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for aircraft in site.data.planes %}
+                    <tr class="border-secondary">
+                        <td><span class="flag-icon flag-icon-{{ aircraft.nation_code }} me-2"></span> {{ aircraft.nation}}</td>
+                        <td>{{ aircraft.callsign }}</td>
+                        <td>{{ aircraft.airframe }}</td>
+                        <td>{{ aircraft.type }}</td>
+                        <td><code>{{ aircraft.hex_code }}</code></td>
+                        <td>{{ aircraft.squawk }}</td>
+                        <td>
+                            <a href="https://globe.adsbexchange.com/?icao={{ aircraft.hex_code}}" target="_blank" class="text-muted float-end">
+                                ADS-B Exchange
+                            </a>
+                        </td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
