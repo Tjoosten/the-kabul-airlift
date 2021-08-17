@@ -8,11 +8,19 @@
 
 - callsign: IFC5K21
   airframe: CB-8009
-  type: C-171
+  type: C-17A
   nation: India
   nation_code: in
   hex_code: 800769
   squawk: 4070
+
+- callsign: IFC5L21
+  airframe: CB-8011
+  type: C-17A
+  nation: India
+  nation_code: in
+  hex_code: 80078E
+  squawk: 6321
 
 - callsign: IAM1441
   airframe: MM62229
@@ -157,3 +165,197 @@
   nation_code: gb
   hex_code: 43C208
   squawk: 6326
+
+- callsign: RRR4180
+  airframe: ZM407
+  type: A400M
+  nation: United Kingdom
+  nation_code: gb
+  hex_code: 42C5E1
+  squawk: 5256
+
+- callsign: NAG69XT
+  airframe: ZM412
+  type: A400M
+  nation: United Kingdom
+  nation_code: gb
+  hex_code: 43C5E6
+  squawk: 4706
+
+- callsign: No Callsign
+  airframe: ZZ177
+  type: C-17A
+  nation: United Kingdom
+  nation_code: gb
+  hex_code: 43C6B8
+  squawk: None
+
+- callsign: RRR2784
+  airframe: ZZ330
+  type: A330MRTT
+  nation: United Kingdom
+  nation_code: gb
+  hex_code: 43C6F3
+  squawk: 2000
+
+- callsign: RRR2764
+  airframe: ZZ331
+  type: A330MRTT
+  nation: United Kingdom
+  nation_code: gb
+  hex_code: 43C6F4
+  squawk: 3447
+
+- callsign: RRR2321
+  airframe: ZZ337
+  type: A330MRTT
+  nation: United Kingdom
+  nation_code: gb
+  hex_code: 43C6FA
+  squawk: 6205
+
+- callsign: RRR2713
+  airframe: ZZ343
+  type: A330MRTT
+  nation: United Kingdom
+  nation_code: gb
+  hex_code: 43C700
+  squawk: 4070
+
+
+- callsign: "No callsign"
+  airframe: 8T-CB
+  type: C-130K
+  nation: Austria
+  nation_code: at
+  hex_code: 447D01
+  squawk: 7135
+
+- callsign: BAF635
+  airframe: CT-02
+  type: A400M
+  nation: Belguim
+  nation_code: be
+  hex_code: 44F682
+  squawk: 7000
+
+- callsign: DAF1837
+  airframe: B-536
+  type: C-130J
+  nation: Denmark
+  nation_code: dk
+  hex_code: 45F428
+  squawk: 7616
+
+- callsign: NAF30
+  airframe: G-988
+  type: C-130H
+  nation: Netherlands
+  nation_code: nl
+  hex_code: 480C06
+  squawk: 3157
+
+- callsign: SVF818
+  airframe: 84008
+  type: C-130H
+  nation: Sweden
+  nation_code: se
+  hex_code: 4A8188
+  squawk: 7457
+
+- callsign: TUAF580
+  airframe: 15-0051
+  type: A400M
+  nation: Turnkey
+  nation_code: tr
+  hex_code: 4B820F
+  squawk: 6645
+
+- callsign: XA556
+  airframe: A39-001
+  type: A330MRTT
+  nation: Australia
+  nation_code: ai
+  hex_code: 7CF864
+  squawk: none
+
+- callsign: THUM02
+  airframe: A39-002
+  type: A330MRTT
+  nation: Australia
+  nation_code: ai
+  hex_code: 7CF865
+  squawk: 2520
+
+- callsign: THUM
+  airframe: A39-004
+  type: A330MRTT
+  nation: Australia
+  nation_code: ai
+  hex_code: 7CF867
+  squawk: 2520
+
+- callsign: No Callsign
+  airframe: N163PA
+  type: GLF3
+  nation: United States
+  nation_code: us
+  hex_code: A0FE19
+  squawk: None
+
+- callsign: No Callsiqn
+  airframe: N173PA
+  type: GLF3
+  nation: United States
+  nation_code: us
+  hex_code: A12598
+  squawk: None
+
+- callsign: N3796B
+  airframe: N3796B
+  type: C-130
+  nation: United States
+  nation_code: us
+  hex_code: A45866
+  squawk: None
+
+- callsign: N38TU
+  airframe: 154038
+  type: CH-46E
+  nation: United States
+  nation_code: us
+  hex_code: A45AAD
+  squawk: None
+
+- callsign: No Callsign
+  airframe: N568AW
+  type: DH8C
+  nation: United States
+  nation_code: us
+  hex_code: A744B7
+  squawk: None
+
+- callsign: RCH24
+  airframe: 85-0033
+  type: KC-10A
+  nation: United States
+  nation_code: us
+  hex_code: ADFEAE
+  squawk: 3363
+
+- callsign: No Callsign
+  airframe: 60-0335
+  type: KC-135R
+  nation: United States
+  nation_code: us
+  hex_code: ADFF0C
+  squawk: None
+
+- callsign: No Callsign
+  airframe: 63-7995
+  type: KC-135R
+  nation: United States
+  nation_code: us
+  hex_code: ADFF10
+  squawk: None
+
